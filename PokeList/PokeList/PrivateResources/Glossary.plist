@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>RocketTeam</key>
+		<dict>
+			<key>Definition</key>
+			<string>Rocket team consists of three members: Jassie, James and meowth. Their aim is to steal valuable pokemons such as pikachu.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1/PlaygroundPage</string>
+				<key>Title</key>
+				<string>Rocket Team</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
